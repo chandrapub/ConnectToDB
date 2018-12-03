@@ -1,0 +1,22 @@
+﻿.mytable
+{
+   border-style:double;
+   border-color:#00aa00;
+   border-width:12px;
+}
+
+.myheader
+{
+    padding:5px;
+    font-family:Verdana;
+    font-size:32px;
+}
+
+.myitem
+{
+    border-style:solid;
+    border-color:black;
+    padding:5px;
+    font-family:Verdana;
+    font-size:24px;
+}
